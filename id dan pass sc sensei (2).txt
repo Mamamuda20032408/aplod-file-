@@ -1,0 +1,7 @@
+ID dan Pass Script sensei github/storiku.
+
+ID : Termux
+Pass : omaliptv
+
+*note*
+Perhatikan penulisan huruf besarnya agar id dan pass tidak salah ya.
